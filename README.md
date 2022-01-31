@@ -1,2 +1,4 @@
 # google_extension_learning
-google extension
+
+Learning google extension with offical web site 
+https://developer.chrome.com/docs/extensions/mv3/getstarted/
